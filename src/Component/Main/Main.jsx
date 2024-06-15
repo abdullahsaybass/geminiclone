@@ -52,7 +52,7 @@ const Main = () => {
                         {input ? <img onClick = {()=> onSent()}src ={assets.send_icon} alt = 'send-icon'/> : null}
                     </div>
                 </div>
-                <p className="bottom-info">Gemini may display inaccurate info, including people, so double-check its response. Your privacy and Gemini Apps</p>
+                <p className="bottom-info">Zenith may display inaccurate info, including people, so double-check its response. Your privacy and Zenith Apps</p>
             </div>
         </div>
     </div>
